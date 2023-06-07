@@ -26,17 +26,18 @@ Console.Write($"Введите число: ");
 NumberToInput = Convert.ToInt32(Console.ReadLine());
 return NumberToInput;
 }
+
 void PrintArray(int[] ArrayToPrint)
 {
-Console.Write("[");
-for (int i = 0; i < ArrayToPrint.Length; i++)
-{
-Console.Write($"{ArrayToPrint[i]}");
-if (i < ArrayToPrint.Length - 1)
-{
-Console.Write(" ");
-}
-}
+    Console.Write("[");
+    for (int i = 0; i < ArrayToPrint.Length; i++)
+    {
+        Console.Write($"{ArrayToPrint[i]}");
+        if (i < ArrayToPrint.Length - 1)
+        {
+            Console.Write(" ");
+        }
+    }
 Console.WriteLine("]");
 }
 
