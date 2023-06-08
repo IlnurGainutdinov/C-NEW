@@ -8,8 +8,9 @@ void RoadToN(int number)
     {
         return;
     }
-    System.Console.Write($"{number}");
     RoadToN(number - 1);
+    System.Console.Write($"{number}");
+    
 }
 
 System.Console.WriteLine("Введите число: ");
