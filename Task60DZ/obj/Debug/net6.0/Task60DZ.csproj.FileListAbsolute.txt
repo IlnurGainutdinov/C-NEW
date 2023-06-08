@@ -1,0 +1,15 @@
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.csproj.AssemblyReference.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.AssemblyInfoInputs.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.AssemblyInfo.cs
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.csproj.CoreCompileInputs.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\bin\Debug\net6.0\Task60DZ.exe
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\bin\Debug\net6.0\Task60DZ.deps.json
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\bin\Debug\net6.0\Task60DZ.runtimeconfig.json
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\bin\Debug\net6.0\Task60DZ.dll
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\bin\Debug\net6.0\Task60DZ.pdb
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.dll
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\refint\Task60DZ.dll
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.pdb
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\Task60DZ.genruntimeconfig.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task60DZ\obj\Debug\net6.0\ref\Task60DZ.dll
