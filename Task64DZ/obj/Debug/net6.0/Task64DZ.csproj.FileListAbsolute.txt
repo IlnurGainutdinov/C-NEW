@@ -1,0 +1,15 @@
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\bin\Debug\net6.0\Task64DZ.exe
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\bin\Debug\net6.0\Task64DZ.deps.json
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\bin\Debug\net6.0\Task64DZ.runtimeconfig.json
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\bin\Debug\net6.0\Task64DZ.dll
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\bin\Debug\net6.0\Task64DZ.pdb
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.csproj.AssemblyReference.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.AssemblyInfoInputs.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.AssemblyInfo.cs
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.csproj.CoreCompileInputs.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.dll
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\refint\Task64DZ.dll
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.pdb
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\Task64DZ.genruntimeconfig.cache
+C:\Users\Ильнур\Desktop\GIT education\C-NEW\Task64DZ\obj\Debug\net6.0\ref\Task64DZ.dll
